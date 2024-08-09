@@ -22,7 +22,7 @@ library
                        array >= 0.4,
                        containers >= 0.5,
                        language-c >=0.6 && <0.7,
-                       markdown-unlit,
+                       markdown-unlit <0.5,
                        pretty,
                        transformers
 
